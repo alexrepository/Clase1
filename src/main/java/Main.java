@@ -16,7 +16,7 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-//hice un cambio justo aqui
+//hice otro cambio quiza?
         int n;
 //leer datos
         Scanner entrada = new Scanner(System.in);
