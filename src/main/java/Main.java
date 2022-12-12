@@ -23,7 +23,8 @@ public class Main {
 //Escribir 
         System.out.println("Ingrese un número");
         n = entrada.nextInt();
-//segun
+
+/*
 switch (n) {
             case 1:
                 System.out.println("Lunes");
@@ -44,7 +45,8 @@ break;
               System.out.println("El numero ingresado no es válido");
         }
         //sino
-/*        
+*/   
+//lo habilite como ifs anidados en este caso     
 if (n == 1) {
             System.out.println("Lunes");
         } else {
@@ -62,7 +64,6 @@ if (n == 1) {
                 }
             }
         }
-*/
 
     }
 
